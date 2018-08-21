@@ -26,7 +26,7 @@ struct Game
 void intro();		// Introduction to the game
 void instructions();	// How to play the game...
 void grid();		// Displays the grid
-int hasWon(int);	// Checks whether the game has been won (if yes,by whom)
+int hasWon(int);	// Checks whether the game has been won (if yes, by whom?)
 int isValid(int);	// Checks whether a move is valid or not
 void user();
 void computer();
