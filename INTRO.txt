@@ -1,0 +1,25 @@
+
+
+TTTTTT IIII   CCCC
+  TT    II   CC
+  TT    II  CC
+  TT    II   CC
+  TT   IIII   CCCC
+
+		       TTTTTT     AAA       CCCC
+			 TT      AA AA     CC
+			 TT     AA   AA   CC
+			 TT    AAAAAAAAA   CC
+			 TT   AA       AA   CCCC
+
+						     TTTTTT    OOO    EEEEEE
+						       TT    OO   OO  EE
+						       TT   OO     OO EEEE
+						       TT    OO   OO  EE
+						       TT      OOO    EEEEEE
+
+
+					     ..... created by SOUTREYA KUNDU
+
+
+<Press any key to continue>

@@ -1,0 +1,25 @@
+
+
+
+
+
+		   In this game the player who occupies all
+		      the 3 boxes along any row or column
+		    or diagonal (before his opponent) wins.
+		   Here, you have to select your choiced box
+		     and enter the corresponding number as
+		 your move. The computer will also play a move
+		    in turn. Basically you have to stop the
+	      computer from winning and also try to win yourself.
+			 YOUR MOVES ARE DENOTED BY  x
+		      COMPUTER'S MOVES ARE DENOTED BY  o
+
+				Go Play The Game
+				      And
+				 BEST OF LUCK!!
+
+
+
+
+
+<Press any key to go back to Main Menu>
